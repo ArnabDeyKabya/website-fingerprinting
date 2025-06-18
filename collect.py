@@ -23,7 +23,7 @@ WEBSITES = [
     "https://prothomalo.com",
 ]
 
-TRACES_PER_SITE = 1000
+TRACES_PER_SITE = 2000
 FINGERPRINTING_URL = "http://localhost:5000" 
 OUTPUT_PATH = "dataset.json"
 
